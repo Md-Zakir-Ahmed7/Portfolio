@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.d57bb86d.css",
+    "main.js": "/Portfolio/static/js/main.c18fa2d5.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/feedback.jpg": "/Portfolio/static/media/feedback.bddeb8c996262b80bdd8.jpg",
+    "static/media/crypto.jpg": "/Portfolio/static/media/crypto.e142b75cc1962d4e77bc.jpg",
+    "static/media/weatherapp.jpg": "/Portfolio/static/media/weatherapp.5c78a9acbf4c741c287d.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.d57bb86d.css.map": "/Portfolio/static/css/main.d57bb86d.css.map",
+    "main.c18fa2d5.js.map": "/Portfolio/static/js/main.c18fa2d5.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d57bb86d.css",
+    "static/js/main.c18fa2d5.js"
+  ]
+}
