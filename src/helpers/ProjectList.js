@@ -1,21 +1,21 @@
-import feedback from '../assets/feedback.jpg'
-import crypto from '../assets/crypto.jpg'
-import weatherapp from '../assets/weatherapp.jpg'
+import SUPERSTORE from "../assets/Superstore_Report.png";
+import Reliance from "../assets/Reliance_Report.png";
+import Excel from "../assets/Excel_Report.png";
 
-export const ProjectList=[
-    {
-        name:'FEEDBACK UI',
-        image:feedback,
-        skills:"React,HTML,CSS",
-    },
-    {
-        name:'CRYPTO APP',
-        image:crypto,
-        skills:"React,HTML,CSS",
-    },
-    {
-        name:'WEATHER APP',
-        image:weatherapp,
-        skills:"JavaScript,HTML,CSS",
-    }
-]
+export const ProjectList = [
+  {
+    name: "SUPERSTORE ANALYSIS",
+    image: SUPERSTORE,
+    skills: "PowerBI,Power Query,DAX,Data Extraction,Data Modelling,ETL",
+  },
+  {
+    name: "RELIANCE ANALYSIS",
+    image: Reliance,
+    skills: "PowerBI,Power Query,DAX,Data Extraction,Data Modelling,ETL",
+  },
+  {
+    name: "EXCEL REPORT",
+    image: Excel,
+    skills: "Microsoft Excel,Pivot Tables,VLOOKUP",
+  },
+];

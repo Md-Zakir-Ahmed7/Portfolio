@@ -7,10 +7,11 @@ function Home() {
   return (
     <div className="home">
       <div className="about">
-        <h2>Hi,My Name is Md Zakir Ahmed</h2>
+        <h2>I'm Zakir - A Data Analyst</h2>
         <div className="prompt">
-          <p>A data analyst with a passion for learning and building.</p>
+          <p>👋I turn data into useful insights👋</p>
           <LinkedInIcon
+            cursor="pointer"
             aria-label="Linkedin.com"
             onClick={() =>
               window.open(
@@ -20,12 +21,14 @@ function Home() {
             }
           />
           <GitHubIcon
+            cursor="pointer"
             aria-label="Github.com"
             onClick={() =>
               window.open("https://github.com/Md-Zakir-Ahmed7", "_blank")
             }
           />
           <EmailIcon
+            cursor="pointer"
             aria-label="Github.com"
             onClick={() =>
               window.open(
@@ -41,13 +44,15 @@ function Home() {
         <ol className="list">
           <li className="item">
             <h2>Technologies</h2>
-            <span>React Js,HTML,CSS,Material UI,Javascript,Java</span>
+            <span>PowerBI,SQL,Excel,Python,React,HTML,CSS</span>
           </li>
         </ol>
         <ol className="list">
           <li className="item">
             <h2>Qualities</h2>
-            <span>Quick learner,Team Player,Good Communicator...</span>
+            <span>
+              Quick learner,Team Player,Good Communicator,Problem Solver
+            </span>
           </li>
         </ol>
       </div>
